@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles and automagic set-up scripts
+Dotfiles and automatic set-up scripts
