@@ -2,4 +2,4 @@ vscode
 signal
 discord
 node: nodemon,
-chromium
+chromium(chromium-sandbox)
